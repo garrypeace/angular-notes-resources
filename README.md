@@ -27,3 +27,5 @@
 - Use ngOnInit() or RxJS to prepare data before it hits the template.
 
 ### Unit testing
+
+- https://youtu.be/lbiOP-VLKGI?si=-ujqU2w--5dq2Sav
