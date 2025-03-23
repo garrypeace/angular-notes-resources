@@ -22,4 +22,8 @@
 
 - takeUntilDestroyed: https://youtu.be/Cr4NRfZxaP0?si=nDc2L5JWVfn0E73w
 
+- Expose only properties and public readonly values to the template.
+- Compute values in the component and assign them to properties if needed.
+- Use ngOnInit() or RxJS to prepare data before it hits the template.
+
 ### Unit testing
